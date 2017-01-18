@@ -1,0 +1,25 @@
+.stage {
+    margin: 0px;
+}
+
+.col {
+    width: 5vh;
+    height: 5vh;
+    margin: 1px;
+    border: solid 1px;
+    float: left;
+    background-color: darkgreen;
+}
+
+.black {
+    background-color: red;
+}
+
+.snack {
+    background-color: blue;
+}
+
+.row {
+    margin: 0px;
+    overflow: hidden;
+}
